@@ -9,3 +9,17 @@ https://legend.octopuslabs.io/sample-page.html
 https://www.youtube.com/watch?v=n06QSoICU6c
 https://www.youtube.com/watch?v=o2X4fDbfSXA
 https://www.youtube.com/watch?v=4J4WLIJmdiY
+
+
+
+open source ac 
+how ac strip handles
+where find ac driver
+can driver be obfuscated
+how to dump ac
+stealing handles lsass
+hook winapis to check what ac does 
+check if winapi code changes after ac starts
+how to use scylla to dump process
+how to debug ac
+does ac block dll injection, do you need handle to inject
