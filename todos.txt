@@ -13,6 +13,8 @@ https://www.youtube.com/watch?v=4J4WLIJmdiY
 
 
 open source ac 
+https://github.com/donnaskiez/ac/tree/06822f69c65d3176516d6b0ca7c64e166a0bc835
+https://github.com/danielkrupinski/VAC
 how ac strip handles
 where find ac driver
 can driver be obfuscated
